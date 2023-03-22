@@ -6,6 +6,7 @@
 docker-ubuntu-vnc-desktop is a Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
 ## Using Docker Hub
+First install x11vnc - brew install x11vnc
 https://hub.docker.com/r/dorowu/ubuntu-desktop-lxde-vnc
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=2 orderedList=false} -->
